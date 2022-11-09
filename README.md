@@ -1,10 +1,8 @@
-<img align="left" width="1000" height="400" src="https://media2.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.webp?cid=6c09b952257dae328d779cb450224e7b2f7042207f57a433&rid=giphy.webp&ct=g">
+<img align="left" width="1000" height="300" src="https://media2.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.webp?cid=6c09b952257dae328d779cb450224e7b2f7042207f57a433&rid=giphy.webp&ct=g">
 <h1 align="center">Hi 👋, I'm PRATHEEKS V</h1>
 <h3 align="center">Evolving Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheeks24&label=Profile%20views&color=0e75b6&style=flat" alt="pratheeks24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratheeks24" alt="pratheeks24" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
